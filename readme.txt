@@ -1,0 +1,1 @@
+Hello! This a practice text file to learn git.
